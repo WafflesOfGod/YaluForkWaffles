@@ -1,0 +1,41 @@
+echo "# YaluForkWaffles" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/WafflesOfGod/YaluForkWaffles.git
+git push -u origin master
+git pull -u master WafflesofGod
+git /sudo \\login ~ \WafflesofGod \Apple21Phone
+git add /u -origin 
+git push -ip /master //242.992.90.1:7847
+git open C:\User\Dev\Desktop\IOS10\yalu10\
+git commit -m "this is where the fun begins"
+git push /sudo \\login ~ \WafflesofGod \Apple21Phone
+git repo -t \decode \\ -user yalu102.deb 
+git sudo \\login ~ \WafflesofGod \Apple21Phone 
+git open C:\User\Dev\Desktop\IOS10\yalu10\ 
+git dir
+git open C:\User\Dev\Desktop\IOS10\fork102\rebuild
+git sudo \\login ~ \WafflesofGod \Apple21Phone 
+git push decode /m C:\User\Dev\Desktop\IOS10\fork102\rebuild
+git two_stage_encrypt /rw -777 
+git folder_Waffles /i /t -rw sector 17 \\rename \\forked \1-9 \\rmDRM \\update -exe /sudo \\login ~ \WafflesofGod \Apple21Phone
+git rmdir \\10.1_mach_portal -t -r /rw \\10.2_extra_recipe 
+git decode -rw \\10.2_extra_recipe
+git /f "10.2" /f ".dylib"
+git -m C:\Users\DEV\rebuild\opensource
+git /dir /n "powertools"
+git decrypt \opensource\forum\library\ios102\system.dylib
+git pull /f "telecom.dylib" "settings.dylib" "camera.deb" "NCFS.dylib" \\extract /m -o
+git /rw /f "AFS.jar" "power_cycle.jar" "telephony.jar" "codecs.txt" \\ -o codex.txt \\ add -l -sector13 'systemavailpowercycle.agg' -run
+git "please wait for decompiler to finish, and run powercycle"
+git opencom 118.892.1.45:1882 -rr pull apt-get update // apt-get install origins.agg -rw -777 // run origins.agg 
+git commit -pwr /sudo \\login ~ \WafflesofGod \Apple21Phone // apt-get update // apt-get install system-tools_2017.zip
+git unzip system-tools_2017.zip \\ -m -odir
+git exec system-tools.exe \\ -odir 
+git /m "AFS.jar" "power_cycle.jar" "telephony.jar" "codecs.txt" -rw -777 \\Waffles102
+git update "codecs.txt" \\ apt-get upgrade 
+git /m telephony.jar \\ exec decompiler \\ modpack.tar \\ port -f -rw -777 
+git rebuild 
+git /l -rw \\file name 
+git push "Waffles102"
